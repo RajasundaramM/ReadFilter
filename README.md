@@ -2,10 +2,10 @@
 This library contains functions to filter analogRead values using normal average and moving window average methods, with option to remove outliers for robust readings.
 
 ## Using the library
-Download these files as a zip file and extract the contents to a folder named 'ReadFilter' inside the Arduino -> libraries folder, along with other Arduino libraries. 
-Include this library in your code as:
+Download these files as a zip file and extract the contents to a folder named 'ReadFilter' inside the Arduino -> libraries folder, along with other Arduino libraries. Include this library in your code as:
 
               #include<ReadFilter.h>
+**This library requires and uses the** [Vector.h](https://www.arduino.cc/reference/en/libraries/vector/) **library (version 1.2.2).**  
 ## Initialising Filter Object
 ReadFilter object has to be created to invoke the filter functions. The following parameters can be passed during filter creation to customize the filter.
 
