@@ -1,3 +1,9 @@
+//----------------------------------------------
+// ReadFilter.h
+// Author: Rajasundaram Mathiazhagan
+// https://www.linkedin.com/in/rajasundaramm/
+//----------------------------------------------
+
 #ifndef ReadFilter_h
 #define ReadFilter_h
 
