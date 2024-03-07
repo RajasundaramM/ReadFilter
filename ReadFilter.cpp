@@ -1,3 +1,9 @@
+//----------------------------------------------
+// ReadFilter.cpp
+// Author: Rajasundaram Mathiazhagan
+// https://www.linkedin.com/in/rajasundaramm/
+//----------------------------------------------
+
 #include "ReadFilter.h"
 #include "Arduino.h"
 #include "Vector.h"
