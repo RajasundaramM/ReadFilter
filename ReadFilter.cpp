@@ -9,8 +9,6 @@
 #include "Vector.h"
 
 ReadFilter :: ReadFilter(int w,  float ml, float mh, bool outr, float n, int d){
-    //common parameters to get:
-    // window? maplow? maphigh? outlier rejection? nsigma?  delay?
     this->window = w;
     this->outrej = outr;
     this->mapl = ml; 
